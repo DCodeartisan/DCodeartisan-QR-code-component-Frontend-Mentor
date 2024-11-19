@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #d5e1ef;
+    font-family: "Poppins", serif;
+  }
+
+  .parent {
+    background-color: white;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .code img {
+    width: 250px;
+    border-radius: 10px;
+  }
+
+  h4 {
+    font-size: 1.1rem;
+  }
+
+  p {
+    font-size: 0.7rem;
+    color: #777;
+    padding-bottom: 20px;
+  }
